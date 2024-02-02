@@ -23,13 +23,13 @@ To run and modify these sketches locally, follow these steps:
 
 	1.	Clone the Repository: Clone this repository to your local machine.
 
-git clone https://github.com/Huyenhuynhh/gallery.git
+      git clone https://github.com/Huyenhuynhh/gallery.git
 
 
 	2.	Install Quarto: If you haven’t already, install Quarto on your system.
 	3.	Open and Run: Open the Quarto document (index.qmd) in your favorite editor. Render the document to HTML using Quarto:
 
-quarto render index.qmd
+      quarto render index.qmd
 
 
 	4.	View: Open the generated index.html in a web browser to view the sketches.
