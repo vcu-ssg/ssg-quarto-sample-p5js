@@ -1,0 +1,37 @@
+---
+title: "Showcase My P5.js Sketches"
+author: "Huyen Huynh"
+format: html
+editor: visual
+---
+
+
+## Connection
+```{=html}
+
+<link rel="stylesheet" href="style.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.0/p5.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.0/addons/p5.sound.min.js"></script>
+<div id="connection-container"></div>
+<script src="connection/connection.js"></script>
+```
+
+## Adventure
+```{=html}
+
+<link rel="stylesheet" href="style.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.0/p5.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.0/addons/p5.sound.min.js"></script>
+<div id="adventure-container"></div>
+<script src="adventure/adventure.js"></script>
+```
+
+## Passion
+```{=html}
+
+<link rel="stylesheet" href="style.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.0/p5.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.0/addons/p5.sound.min.js"></script>
+<div id="passion-container"></div>
+<script src="passion/passion.js"></script>
+```

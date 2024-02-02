@@ -1,0 +1,13 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+#adventure-container, #connection-container, #passion-container {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px; /* space between sketches */
+}
