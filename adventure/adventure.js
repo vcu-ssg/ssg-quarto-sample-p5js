@@ -109,4 +109,4 @@ var adventureSketch = function(p) {
   }
 };
 
-new p5(adventureSketch, 'adventure-container');
+//new p5(adventureSketch, 'adventure-container');
